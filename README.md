@@ -16,7 +16,7 @@ This sample implements a Retrieval-Augmented Generation (RAG) pipeline that inge
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Azure-Samples/azure-files-langchain-weaviate.git
+git clone https://github.com/ftrichardson1/azure-files-langchain-weaviate.git
 cd azure-files-langchain-weaviate
 ```
 
